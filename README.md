@@ -5,3 +5,6 @@ A site built to work with the focus() JavaScript method, as well as handling JSO
 Brewdog Punk API root endpoint:
 
 https://api.punkapi.com/v2/
+
+The live site can be accessed here:
+https://max-whitmore.github.io/beer-generator/
